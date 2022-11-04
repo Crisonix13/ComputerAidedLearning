@@ -4,3 +4,4 @@ integrative technology, which describes an educational environment where a compu
 
 team members:
 *Alejaga, Abdul aziz
+*Asilanom Rice Senday
